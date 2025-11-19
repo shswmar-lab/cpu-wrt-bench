@@ -25,7 +25,7 @@ sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/cpu-wrt-bench/refs/he
 | Xiaomi Redmi Router AX6000 | MediaTek MT7986A | OpenWrt 24.10.1 | 4        | 451.73         | 18.78               | 1805.96           | 55.30                  |
 | TP-Link TL-WR842N v3    | Atheros QCA9531 | OpenWrt 24.10.2 | 1            | 24.27          | 4.37                | 26.30             | 4.54                   |
 | Xunlong Orange Pi PC Plus | H3 Quad-core Cortex-A7 | OpenWrt 24.10.0 | 4            | 112.43         | 132.54              | 450.46            | 349.75                 |
-| LENOVO HuronRiver Platform | Intel B960 | OpenWrt 24.10.4 | 2            | 1010.74        | 890.66              | 2020.07           | 1782.24                |
+| LENOVO HuronRiver Platform | Intel(R) Pentium(R) B950 | OpenWrt 24.10.4 | 2            | 1010.74        | 890.66              | 2020.07           | 1782.24                |
 
 > [!NOTE]
 > n/s - CPU not supported int128 method.
